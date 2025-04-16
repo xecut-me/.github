@@ -18,7 +18,6 @@ Xecut Hackerspace is a community-driven workspace where makers, tinkerers, progr
 
 ### Equipment Repositories
 
-- [**3d_printer**](https://github.com/xecut-me/3d_printer) - Configuration and documentation for our modified Anet A8 3D printer with Sprite Extruder and Klipper firmware
 - [**3d-printer**](https://github.com/xecut-me/3d-printer) - Additional 3D printer resources and configurations
 - [**k10v**](https://github.com/xecut-me/k10v) - Custom firmware for k10v pinpad
 
